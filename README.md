@@ -6,12 +6,12 @@ Our application focuses on providing a solution to small coaching centres to pro
 #To use the project locally make sure you have MongoDB and NodeJS installed 
 
 ## Usage
-#Open command prompt (on Windows ) / bash (in LINUX /UNIX)
-#Switch to directory where you have cloned the project
-#Run `npm install`
-#Start MongoDB client
-#Run `npm run dev` to start the app
-#Move to your preferred browser and type `localhost:3000` to view project
+1.Open command prompt (on Windows ) / bash (in LINUX /UNIX)
+2.Switch to directory where you have cloned the project
+3.Run `npm install`
+4.Start MongoDB client
+5.Run `npm run dev` to start the app
+6.Move to your preferred browser and type `localhost:3000` to view project
 ## Contributing
 1. Fork it!
 2. Create your feature branch: `git checkout -b my-new-feature`
